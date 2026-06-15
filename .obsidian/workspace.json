@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd80532a844b341",
+        "id": "72c1c19cb0715152",
         "type": "tabs",
         "children": [
           {
-            "id": "a7a76f1c83c3fb99",
+            "id": "d5625af9d43045d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大学笔记/物理/第一章 质点力学.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "第一章 质点力学"
+              "title": "新标签页"
             }
           }
         ]
@@ -185,12 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7a76f1c83c3fb99",
+  "active": "d5625af9d43045d0",
   "lastOpenFiles": [
+    "大学笔记/物理/第一章 质点力学.md",
     "大学笔记/物理/第十章 量子物理基础.md",
     "大学笔记/物理/第五章 波动光学.md",
     "大学笔记/物理/第七章 静电场.md",
-    "大学笔记/物理/第一章 质点力学.md",
     "apply_fixes.py",
     "generate_fixes.py",
     "fix_data.json",
