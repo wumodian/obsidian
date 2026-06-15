@@ -41,7 +41,9 @@
       "enabled": true,
       "safeMode": "workspace-write",
       "cliPath": "",
-      "cliPathsByHost": {},
+      "cliPathsByHost": {
+        "device:78ff0fbd-d7b1-4520-8950-407a127b8366": "C:\\Users\\15027\\AppData\\Roaming\\npm\\codex.cmd"
+      },
       "customModels": "",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
